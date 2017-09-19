@@ -5,11 +5,11 @@ Supercharge your VIM into IDE.
 
 1: Requirements 
 
-	1: [Git](https://git-scm.com/)
+	1: [Git] (https://git-scm.com/)
 
-	2: [Crul](https://curl.haxx.se/) 
+	2: [Crul] (https://curl.haxx.se/) 
 	
-	3: [Exuberant CTags](http://ctags.sourceforge.net/)
+	3: [Exuberant CTags] (http://ctags.sourceforge.net/)
 	
 2: Set up [Vundle](http://github.com/VundleVim/Vundle.vim):
 
