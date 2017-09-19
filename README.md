@@ -16,4 +16,4 @@ Supercharge your VIM into IDE.
 3: copy vimrc file to overwrite default file
 ---------------------
 4: Open vim then type :BundleInstall
-
+---------------------
