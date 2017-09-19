@@ -4,6 +4,7 @@ Vim Configure file
 Supercharge your VIM into IDE.
 
 1: You need to install Exuberant CTags
+
       on OSX just run
       $ brew install ctags
 
