@@ -11,4 +11,4 @@ Supercharge your VIM into IDE.
       or on Ubuntu/Debian
       $ sudo apt-get install exuberant-ctags
   
-      or on Windows, just download the binary from the [homepage](http://ctags.sourceforge.net/) and install away.
+      or on Windows, just download the binary from the [homepage] (http://ctags.sourceforge.net/) and install away.
