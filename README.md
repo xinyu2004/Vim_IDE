@@ -8,7 +8,6 @@ Supercharge your VIM into IDE.
 *  [Git](https://git-scm.com/)
 *  [Crul](https://curl.haxx.se/) 	
 *  [Exuberant CTags](http://ctags.sourceforge.net/)
-*  [Cscope](http://cscope.sourceforge.net/)
 	
 2: Set up [Vundle](http://github.com/VundleVim/Vundle.vim):
 ---------------------
