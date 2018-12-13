@@ -132,7 +132,7 @@ Bundle 'gmarik/vundle'
 Bundle 'a.vim'
 Bundle 'ctrlpvim/ctrlp.vim'
 Bundle 'taglist.vim'
-Bundle 'cscope.vim'
+Bundle 'ronakg/quickr-cscope.vim'
 
 """"""""git repo"""""""""""""""
 Bundle 'cSyntaxAfter'
